@@ -5,8 +5,8 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀
-- 🔭 I’m currently working on C#, Java, SQL and DevExpress with Desktop App Programming 
-- 🌱 I’m currently learning 😂
+- 🔭 I’m currently working on C#, SQL and DevExpress with Desktop App Programming 
+- 🌱 I’m currently learning Java and Python
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
